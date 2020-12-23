@@ -1,0 +1,33 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.foto1 {
+  width: 100%;
+  height: 500%;
+}
+
+.caja {
+  position: relative;
+}
+
+.texto1 {
+  position: absolute;
+  bottom: 150px;
+  left: 20%;
+  color: azure;
+  font-size: 4rem;
+}
+
+.header {
+  text-align: center;
+  background: url("../images/post-image.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #FFF;
+  padding: 25rem 3rem;
+}
+
+/*# sourceMappingURL=style.css.map */
